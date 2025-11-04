@@ -51,9 +51,6 @@ body::before {
     opacity: 0.8;
 }
 
-main {
-}
-
 .main-header {
     width: 100%;
     padding: 20px 0;
@@ -594,9 +591,6 @@ footer p {
         justify-content: center;
         padding: 0 20px;
         gap: 15px;
-    }
-
-    .logo {
     }
 
     .header-right {
